@@ -1,0 +1,1 @@
+{'status': 'critical', 'service_name': 'cpu', 'hostname': 'hehe_server', 'trigger': 'idle'}
